@@ -62,18 +62,21 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+**PROGRAM**:<img width="573" height="342" alt="de3" src="https://github.com/user-attachments/assets/5ab23672-048b-43b8-a0b3-2c5e4f1f87f2" />
+
 
 Program for logic gates and verify its truth table in quartus using Verilog program
  
  
-**Logic symbol & Truthtable**
-<img width="590" height="817" alt="ex1" src="https://github.com/user-attachments/assets/03ecaa88-ff8b-4866-8ac3-2ed30c59c782" />
+**Logic symbol & Truthtable:<img width="595" height="676" alt="de2" src="https://github.com/user-attachments/assets/9554c194-20f1-4241-9886-0319de8fb240" />
 
 
-**RTL realization Output:** 
 
-**RTL**
+**RTL realization Output: <img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/cb8536fc-6268-4458-85a5-7f4365431d91" />
+
+
+**RTL**:<img width="1857" height="848" alt="de1" src="https://github.com/user-attachments/assets/e992f412-89e7-4748-821d-09d39cba9f08" />
+
 
 **Result:**
 
